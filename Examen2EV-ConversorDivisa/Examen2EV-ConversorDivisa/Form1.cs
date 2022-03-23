@@ -61,6 +61,8 @@ namespace Ejercicio10
             tImporte.Text = libras.ToString();
         }
 
+
+        //cambios hechos desde ordenador para mezclar con los ya hechos
         private void Form1_Load(object sender, EventArgs e)
         {
 
