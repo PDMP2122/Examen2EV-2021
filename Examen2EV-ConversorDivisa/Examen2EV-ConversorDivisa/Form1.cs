@@ -15,7 +15,7 @@ namespace Ejercicio10
         {
             InitializeComponent();
         }
-
+//Cambios hechos desde GitHub
          // Declaramos la constante que convierte entre euros y dolares.
         //
         const double CONV1 = 0.826;  // 1 dolar, 0,826 euros
