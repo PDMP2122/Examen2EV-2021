@@ -51,7 +51,7 @@
             // tImporte
             // 
             this.tImporte.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tImporte.Location = new System.Drawing.Point(158, 69);
+            this.tImporte.Location = new System.Drawing.Point(158, 39);
             this.tImporte.Margin = new System.Windows.Forms.Padding(2);
             this.tImporte.Name = "tImporte";
             this.tImporte.Size = new System.Drawing.Size(103, 38);
